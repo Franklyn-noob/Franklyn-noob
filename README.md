@@ -11,7 +11,7 @@ foundation into cloud infrastructure, automation, and DevOps — connecting the
 frontend experiences I build with resilient, scalable backend and cloud services.
 
 ## What I'm Learning
-- Cloud platforms (AWS / Azure / GCP) and architecture patterns
+- Cloud platform (AWS) and architecture patterns
 - Infrastructure as Code (Terraform, CloudFormation)
 - Containerization & orchestration (Docker, Kubernetes)
 - CI/CD pipelines and automation
