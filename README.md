@@ -1,4 +1,4 @@
-# Hello! I'm Franklyn-noob 👋
+# Hello! I'm Franklyn 👋
 
 ## About Me
 I'm on a journey to become a **Cloud Engineer** ☁️, learning how to design,
