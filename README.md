@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello! I'm Franklyn-noob 👋
 
-<!--
-**Franklyn-noob/Franklyn-noob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm on a journey to become a **Cloud Engineer** ☁️, learning how to design,
+build, and operate scalable systems in the cloud.
 
-Here are some ideas to get you started:
+I have hands-on experience working with **HTML**, **CSS**, and **JavaScript**,
+which gives me a solid foundation in building user-facing web applications and
+understanding the full software development lifecycle. I'm now extending that
+foundation into cloud infrastructure, automation, and DevOps — connecting the
+frontend experiences I build with resilient, scalable backend and cloud services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Learning
+- Cloud platforms (AWS / Azure / GCP) and architecture patterns
+- Infrastructure as Code (Terraform, CloudFormation)
+- Containerization & orchestration (Docker, Kubernetes)
+- CI/CD pipelines and automation
+
+Thanks for stopping by! 🚀
